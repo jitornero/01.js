@@ -12,5 +12,5 @@
 (function() {
     'use strict';
 
-alert('hola');
+alert('chau');
 })();
